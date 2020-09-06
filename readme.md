@@ -1,4 +1,11 @@
-## Utopia Online Airline Reservation API
+# Utopia Airline System
+## Utopia Online Microservice
+
+This repository is a submodule apart of the Utopia Airline System. To clone the entire project use this repository link with the recursive flag:
+
+git clone --recursive https://github.com/tbreitenfeldt/utopia-airline-system.git
+
+### Description
 
 This is a microservice API apart of the utopia airline reservation system. This service handles requests from average users for booking and canceling itineraries.
 
